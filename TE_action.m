@@ -40,7 +40,7 @@ if (t > 1)
         action_out = action_base(s,1);
     end
 else
-    action_out = action(s,1);
+    action_out = action_base(s,1);
 end
 
 
